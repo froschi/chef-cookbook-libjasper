@@ -1,3 +1,5 @@
+include_recipe "libjpeg"
+
 packages = %w/
   libjasper1
 /
